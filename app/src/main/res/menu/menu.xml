@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cId"
+        android:title="C Programming"
+        android:icon="@drawable/cprogram"
+        />
+    <item android:id="@+id/javascript"
+    android:title="JavaSacript"
+    android:icon="@drawable/javascript"
+    />
+    <item android:id="@+id/kotlin"
+        android:title="Kotlin"
+        android:icon="@drawable/kotlin"
+        />
+    <item android:id="@+id/swift"
+        android:title="Swift"
+        android:icon="@drawable/swift"
+        />
+    <item android:id="@+id/python"
+        android:title="Python"
+        android:icon="@drawable/python"
+        />
+</menu>
